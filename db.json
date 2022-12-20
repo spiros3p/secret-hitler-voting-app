@@ -1,0 +1,9 @@
+{
+  "rooms": [
+    {
+      "id": "1",
+      "participants": 3,
+      "votes": [0, 1]
+    }
+  ]
+}
